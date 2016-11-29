@@ -1,2 +1,7 @@
 this is a test txt
+<<<<<<< HEAD
 thi is a test txt02
+=======
+this is a test txt01
+>>>>>>> featurel
+this is a test txt 03
